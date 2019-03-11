@@ -1,2 +1,2 @@
 # Heapsort
-Implementacja algorytmu sortowania przez kopcowanie oraz metod umożliwiających używanie algorytmu.
+Implementation of the heapsort algorithm and methods enabling the use of the algorithm.
